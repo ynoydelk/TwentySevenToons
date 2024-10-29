@@ -1,0 +1,12 @@
+<FONTES>
+    font-family: "Ubuntu", serif;
+    font-family: "Kanit", serif;
+</FONTES>
+
+<CORES>
+    AEE4FF
+    6A9CFD
+    FFB8D0
+    FEE5E1
+    033495
+</CORES>
